@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|d:\\download\\3rd year 1st\\gameprog\\week8templerun\\assets\\script\\itemspawner1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemspawner1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\assets\\script\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\assets\\script\\cameracomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B0B404-BBAF-796B-4CB7-468ED6CE46D2}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\Item.cs",
+              "RelativeToolTip": "Assets\\Script\\Item.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:47:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthSystem.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\HealthSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:47:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemSpawner1.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\ItemSpawner1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ItemSpawner1.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\ItemSpawner1.cs",
+              "RelativeToolTip": "Assets\\Script\\ItemSpawner1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:47:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraComponent.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\CameraComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraComponent.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\CameraComponent.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:47:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Week8TempleRun\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:29:09.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
